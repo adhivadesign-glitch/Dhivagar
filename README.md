@@ -142,3 +142,13 @@ I want visitors to see someone who:
 - Builds practical solutions
 - Uses AI effectively
 - Can take a product from idea to launch
+
+---
+
+## 📊 GitHub Stats
+
+![Stats](https://github-readme-stats.vercel.app/api?username=adhivadesign-glitch&show_icons=true&theme=tokyonight)
+
+![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=adhivadesign-glitch&layout=compact&theme=tokyonight)
+
+![Streak](https://streak-stats.demolab.com?user=adhivadesign-glitch&theme=tokyonight)
