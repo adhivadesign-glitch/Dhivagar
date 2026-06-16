@@ -152,3 +152,14 @@ I want visitors to see someone who:
 ![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=adhivadesign-glitch&layout=compact&theme=tokyonight)
 
 ![Streak](https://streak-stats.demolab.com?user=adhivadesign-glitch&theme=tokyonight)
+
+---
+
+## 🛠 Tech Stack
+
+![React](https://img.shields.io/badge/React-20232A?logo=react)
+![NextJS](https://img.shields.io/badge/Next.js-black?logo=next.js)
+![NodeJS](https://img.shields.io/badge/Node.js-green?logo=node.js)
+![Firebase](https://img.shields.io/badge/Firebase-orange?logo=firebase)
+![MongoDB](https://img.shields.io/badge/MongoDB-green?logo=mongodb)
+![Docker](https://img.shields.io/badge/Docker-blue?logo=docker)
